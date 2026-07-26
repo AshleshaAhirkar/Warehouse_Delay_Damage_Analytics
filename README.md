@@ -144,7 +144,7 @@ The original Kaggle dataset was enhanced with additional business columns and fe
 
 ## Dashboard 1 – Executive Overview
 
-![Executive Overview Dashboard](readme_assets/1.Executive_Overview.png)
+![Executive Overview Dashboard](https://github.com/AshleshaAhirkar/Warehouse_Delay_Damage_Analytics/blob/main/1.%20Excecutive%20Dashboard.png)
 
 ### Dashboard Highlights
 
@@ -159,7 +159,7 @@ The original Kaggle dataset was enhanced with additional business columns and fe
 
 ## Dashboard 2 – Operational Insights
 
-![Operational Insights Dashboard](readme_assets/2.Operational_Insights.png)
+![Operational Insights Dashboard](https://github.com/AshleshaAhirkar/Warehouse_Delay_Damage_Analytics/blob/main/2.%20Operational%20Insights.png)
 
 ### Dashboard Highlights
 
@@ -174,7 +174,7 @@ The original Kaggle dataset was enhanced with additional business columns and fe
 
 ## Dashboard 3 – Cost & Performance
 
-![Cost & Performance Dashboard](readme_assets/3.Cost_Performance.png)
+![Cost & Performance Dashboard](https://github.com/AshleshaAhirkar/Warehouse_Delay_Damage_Analytics/blob/main/3.%20Cost%20%26%20Performance.png)
 
 ### Dashboard Highlights
 
