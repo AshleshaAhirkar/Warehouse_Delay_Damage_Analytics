@@ -258,7 +258,7 @@ This project enables businesses to:
 
 🔗 *Power BI Dashboard*
 
-<ADD_YOUR_LIVE_DASHBOARD_LINK_HERE>
+https://app.fabric.microsoft.com/view?r=eyJrIjoiMjBjMjkwZDMtMGQ0Ni00Nzc1LTkyNmItZDIwYThmZGVkOTI5IiwidCI6IjllZGMyZjZmLTc4YjUtNDZjMS1iYzkwLTNkZGM0NjExNWE4NiJ9
 
 ---
 
